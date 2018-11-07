@@ -12,8 +12,7 @@ Tensorflow implementation of [YOLO](https://arxiv.org/pdf/1506.02640.pdf), inclu
 
 2. Download Pascal VOC dataset, and create correct directories
 	```Shell
-	chmod +x download_data.sh
-	./download_data.sh
+	$ ./download_data.sh
 	```
 
 3. Download [YOLO_small](https://drive.google.com/file/d/0B5aC8pI-akZUNVFZMmhmcVRpbTA/view?usp=sharing)
